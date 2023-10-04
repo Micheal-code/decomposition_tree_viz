@@ -1,0 +1,119 @@
+{
+    "name": "AirBnB",
+    "children": [
+      {
+        "name": "Weekdays",
+        "children": [
+          {
+            "name": "Entire home",
+            "children": [
+              {
+                "name": "Avg_Sum in Pounds(£)",
+                "children": [
+                  {"name": 198.55, "value": 4}
+                ]
+              },
+              {
+                "name": "Avg_Capacity",
+                "children": [
+                  {"name": 5}
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Private home",
+            "children": [
+              {
+                "name": "Avg_Sum in Pounds(£)",
+                "children": [
+                  {"name": 186.43}
+                ]
+              },
+              {
+                "name": "Avg_Capacity",
+                "children": [
+                  {"name": 4}
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Shared room",
+            "children": [
+              {
+                "name": "Avg_Sum in Pounds(£)",
+                "children": [
+                  {"name": 98.77}
+                ]
+              },
+              {
+                "name": "Avg_Capacity",
+                "children": [
+                  {"name": 2}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Weekends",
+        "children": [
+          {
+            "name": "Entire home",
+            "children": [
+              {
+                "name": "Avg_Sum in Pounds(£)",
+                "children": [
+                  {"name": 609.75}
+                ]
+              },
+              {
+                "name": "Avg_Capacity",
+                "children": [
+                  {"name": 6}
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Private home",
+            "children": [
+              {
+                "name": "Avg_Sum in Pounds(£)",
+                "children": [
+                  {"name": 499.10}
+                ]
+              },
+              {
+                "name": "Avg_Capacity",
+                "children": [
+                  {"name": 3}
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Shared room",
+            "children": [
+              {
+                "name": "Avg_Sum in Pounds(£)",
+                "children": [
+                  {"name": 445.95}
+                ]
+              },
+              {
+                "name": "Avg_Capacity",
+                "children": [
+                  {"name": 3}
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
+  
